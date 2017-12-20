@@ -1,5 +1,5 @@
 # NLTK_spelling_corrector
-http://forthebadge.com/images/badges/made-with-python.svg
+![badge-1](http://forthebadge.com/images/badges/made-with-python.svg)
 ## Description
 Ortografia is a python-based spelling checker which finds mistakes and suggests correct spellings. It does it using a database which
 is a .txt file with near to 0.15 million words. It takes the input from the user in the form of a .txt file. It parses the file, 
